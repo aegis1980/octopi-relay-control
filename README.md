@@ -1,4 +1,4 @@
-# OctoPi control relays
+# OctoPi plugin to control relays via RPi GPIO/SPI
 
 
 ## Setup

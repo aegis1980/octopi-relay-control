@@ -1,5 +1,9 @@
 # OctoPi plugin to control relays via RPi GPIO/SPI
 
+**[WIP]** Currently only supports a [RELAYplate hat from Pi-Plates](https://pi-plates.com/relayr1/) which uses SPI (see point 2 below) 
+
+Could add option for relays connected directly to RPi GPIOs, (if there is a demand!)
+
 ## To install
 
 1. SSH into your octopi. 
